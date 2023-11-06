@@ -1,0 +1,16 @@
+{
+    "name": "raim/flux-notifications",
+    "description": "notification",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "raim",
+        "email": "rako2002@mail.ru"
+      }
+    ],
+    "require": {
+        "php": "^8.0"
+    }
+  }
+  
