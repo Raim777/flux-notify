@@ -1,6 +1,6 @@
 <?php
 
-namespace Raim\FluxNotif;
+namespace Raim\FluxNotify;
 
 use Filament\Facades\Filament;
 use Filament\Navigation\NavigationBuilder;
@@ -9,7 +9,7 @@ use Illuminate\Support\ServiceProvider;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Support\Collection;
 
-class FluxCatalogServiceProvider extends ServiceProvider
+class FluxNotificationsServiceProvider extends ServiceProvider
 {
 
     public function boot()
