@@ -3,5 +3,5 @@
 Установите пакет с помощью Composer:
 
 ``` bash
- composer require Raim/flux-notification
+php artisan vendor:publish --provider="Raim\FluxNotify\FluxNotificationsServiceProvider"
 ```
